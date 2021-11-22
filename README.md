@@ -1,3 +1,8 @@
 # hello-world
-The Big bang repository
-I am Nishchay Sharma. I am a CS graduate.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+  printf("Hello, World!");
+}
+return 0;
